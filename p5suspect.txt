@@ -1,0 +1,35 @@
+IS easy enough to criticise economists: too superior, too blinkered, too often wrong. 
+Paul Samuelson, one of the discipline’s great figures, once lampooned stockmarkets for 
+predicting nine out of the last five recessions. Economists, in contrast, barely ever 
+see downturns coming. They failed to predict the 2007-08 financial crisis.
+Yeat this is not the beast test of success. Much as doctors understand diseases but 
+cannot predict when you will fall ill, economists’ fundamental mission is not to forecast 
+recessions but to explain how the world works. During the summer of 2016, The Economist 
+ran a series of briefs on important economic theories that did just that—from the Nash 
+equilibrium, a cornerstone of game theory, to the Mundell-Fleming trilemma, which lays bare 
+the trade-offs countries face in their management of capital flows, exchange rats and monetary 
+policy; from the financial-instability hypothesis of Hyman Minsky to the insights of Samuelson 
+and Wolfgang Stolper on trade and wages; from John Maynard Keynes’s thinking on the fiscal 
+multiplier to George Akerlof’s work on information asymmetry. We have assembled these articles 
+into this collection.
+
+The six breakthroughs are adverts not just for the value of economics, but also for three other 
+things: theory, maths and outsiders. More than ever, economics today is an empirical discipline. 
+But theorry remains vital. Many policy failures might have been avoided if theoretical insights 
+had been properly applied. The trilemma was outlined in the 1960s, and the fiscal multiplier 
+dates back to the 1930s; both illuminate the curent stugles of the euro zone and the sometimes 
+self-defeating pursuit of austerity. Nor is the body of economic theory complete. From “secular 
+stagnation” to climate change, the discipline needs big thinkers as well as big data.
+
+It also needs mathmatics. Economic papers are far too formulaic; models should be a means, not an 
+end. But the symbls do matter. The job of economists is to impose mathematical rigour on intuitions 
+about markets, economies and people. Maths was needed to formalise most of the ideas in our briefs.
+
+In economics, as in other fields, a fresh eye can also make a big difference. New ideas often meet 
+resistance. Mr Akerlof’s paper was rejected by several journals, one on the ground that if it was 
+correct, “economics would be different”. Recognition came slowly for many of our theories: Minsky 
+stayed in relative obscurity until his death, gaining suprestar status only once the financial crisis 
+hit. Economists still tend to look down on outsiders. Behavioural economics has broken down one silo 
+by incorporating insights from psychology. More need to disappear: like anthropologists, economists 
+should think more about how individuals’ decision-making relates to sotial mores; like physicists, 
+they should study instability instead of assuming that economise naturally self-correct.
